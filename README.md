@@ -1,6 +1,36 @@
 <h1 align="center">Hi 👋, I'm Safiya Nursyahadah binti Masnoor</h1>
 <h3 align="center">I'm currently enrolled in University of Technology, Malaysia (UTM) and persue Bachelor Degree in Computer Science (Data Engineering)</h3>
 
+
+# 🎓Education
+- MRSM SULTAN AZLAN SHAH, KUALA KANGSAR, PERAK.
+  - Sijil Pelajaran Malaysia (SPM) | Pure Science Stream (2017 - 2022)
+  - Pentaksiran Tingkatan 3 (PT3) 
+- KOLEJ MATRIKULASI SELANGOR
+  - Foundation in Physical Science (2022 - 2023)
+- UTM 
+  - Bachelor Degree in Computer Science(Data Engineering) (2023 - Now)
+# 📑 Certificate
+- SPM 
+- Foundation CGPA 4.00
+- MUET 4.0
+- IELTS 6.0  
+# 💪 Skills
+- Photoshop 
+- Canva
+# 🏆 Award
+- 4 Flat both sem in matriculation
+- Top 10 Trial SPM
+- Best Student Award for Art subject
+
+# 👨‍🎓 My study
+Year 1
+- Technology and Information System 📱
+- Digital Logic 💾
+- Programming Technique I 💻
+- Discrete Structure 📈
+- Integrity And Anti-Corruption 🧑‍🤝‍🧑
+ 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sfiyamsnr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sfiyamsnr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
