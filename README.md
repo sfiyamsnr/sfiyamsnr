@@ -23,17 +23,21 @@
 - IELTS 6.0  
 #### 🏆 Award
 2015-2016 
-- Top 10 Best Prefect Award 
+- Top 10 Best Prefect Award </br>
+
 2018-2021 
-- Dean's List Award for every semester 
+- Dean's List Award for every semester </br>
+
 2020 
 - Excellent Subject Award in Art and Design 
-- PNG 4.0 Award Semester 2 Form 4 
+- PNG 4.0 Award Semester 2 Form 4 </br>
+
 2021
 - Best Attendance for pdpr 
-- Top 10 Pre-trial spm 
+- Top 10 Pre-trial spm </br>
+
 2023 
-- CGPA 4.00 AWARD
+- CGPA 4.00 AWARD</br>
 
 #### 👩‍💼 Leadership
 - Treasurer of Practicum S2K1T8 
