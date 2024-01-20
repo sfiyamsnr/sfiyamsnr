@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Safiya Nursyahadah binti Masnoor</h1>
-<h3 align="center">I'm currently enrolled in University of Technology, Malaysia (UTM) and persue Bachelor Degree in Computer Science (Data Engineering)</h3>
+<h3 align="center">I'm currently enrolled in University of Technology, Malaysia (UTM) and persuing Bachelor Degree in Computer Science (Data Engineering)</h3>
 
-[website](https://sfiyamsnr.github.io/)
-# 🎓Education
+#### About Me ✌️:
+🎂 5th March 2004 </br></br>
+🌍 Based in Rawang, Selangor.</br></br>
+📩 Contact me at safiyanursyahadah@graduate.utm.my</br></br>
+⌨️ Visit [my e-portfolio](https://sfiyamsnr.github.io/)</br></br>
+🪪 Take a look at [my resume](https://drive.google.com/file/d/1F_TyT71HT-vSHU7I9au_TZxBORHzeecq/view?usp=drive_link)</br></br>
+
+#### 🎓Education
 - MRSM SULTAN AZLAN SHAH, KUALA KANGSAR, PERAK.
   - Sijil Pelajaran Malaysia (SPM) | Pure Science Stream (2017 - 2022)
   - Pentaksiran Tingkatan 3 (PT3) 
@@ -10,20 +16,37 @@
   - Foundation in Physical Science (2022 - 2023)
 - UTM 
   - Bachelor Degree in Computer Science(Data Engineering) (2023 - Now)
-# 📑 Certificate
+#### 📑 Certificate
 - SPM 
 - Foundation CGPA 4.00
 - MUET 4.0
 - IELTS 6.0  
-# 💪 Skills
-- Photoshop 
-- Canva
 # 🏆 Award
-- 4 Flat both sem in matriculation
-- Top 10 Trial SPM
-- Best Student Award for Art subject
+2015-2016 
+- Top 10 Best Prefect Award 
+2018-2021 
+- Dean's List Award for every semester 
+2020 
+- Excellent Subject Award in Art and Design 
+- PNG 4.0 Award Semester 2 Form 4 
+2021
+- Best Attendance for pdpr 
+- Top 10 Pre-trial spm 
+2023 
+- CGPA 4.00 AWARD
 
-# 👨‍🎓 My study
+#### 👩‍💼 Leadership
+- Treasurer of Practicum S2K1T8 
+- Treasurer of Librarian Council 20/21 
+- Treasurer of batch Sagittarius 2017-2021 
+- Treasurer of homeroom 2017-2021 
+- Treasurer of Creative and Innovative Club 20/21 
+- Vice President of Traditional Sport 20/21 
+- Vice President of Netball 19/20
+- Vice president of class 2017 
+- Netball captain 2019
+
+#### 👨‍🎓 My study
 Year 1
 - Technology and Information System 📱
 - Digital Logic 💾
@@ -43,7 +66,7 @@ Year 1
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 
 ###
