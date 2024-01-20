@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Safiya Nursyahadah binti Masnoor</h1>
 <h3 align="center">I'm currently enrolled in University of Technology, Malaysia (UTM) and persuing Bachelor Degree in Computer Science (Data Engineering)</h3>
-![penguin-hi](https://github.com/sfiyamsnr/SECR1013-DIGITAL-LOGIC/assets/147832428/e356fe64-0ade-4ca5-adf9-be50e6497d94)
 
-#### About Me ✌️:                                                  
+#### About Me ✌️:      <img src="https://github.com/sfiyamsnr/SECR1013-DIGITAL-LOGIC/assets/147832428/e356fe64-0ade-4ca5-adf9-be50e6497d94" align="right">                                            
 🎂 5th March 2004 </br></br>
 🌍 Based in Rawang, Selangor.</br></br>
 📩 Contact me at safiyanursyahadah@graduate.utm.my</br></br>
