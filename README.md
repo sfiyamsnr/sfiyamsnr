@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Safiya Nursyahadah binti Masnoor</h1>
 <h3 align="center">I'm currently enrolled in University of Technology, Malaysia (UTM) and persue Bachelor Degree in Computer Science (Data Engineering)</h3>
 
-
+[website](https://sfiyamsnr.github.io/)
 # 🎓Education
 - MRSM SULTAN AZLAN SHAH, KUALA KANGSAR, PERAK.
   - Sijil Pelajaran Malaysia (SPM) | Pure Science Stream (2017 - 2022)
