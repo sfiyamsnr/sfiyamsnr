@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Safiya Nursyahadah binti Masnoor</h1>
 <h3 align="center">I'm currently enrolled in University of Technology, Malaysia (UTM) and persuing Bachelor Degree in Computer Science (Data Engineering)</h3>
+![penguin-hi](https://github.com/sfiyamsnr/SECR1013-DIGITAL-LOGIC/assets/147832428/e356fe64-0ade-4ca5-adf9-be50e6497d94)
 
-#### About Me ✌️:
+#### About Me ✌️:                                                  
 🎂 5th March 2004 </br></br>
 🌍 Based in Rawang, Selangor.</br></br>
 📩 Contact me at safiyanursyahadah@graduate.utm.my</br></br>
@@ -21,7 +22,7 @@
 - Foundation CGPA 4.00
 - MUET 4.0
 - IELTS 6.0  
-# 🏆 Award
+#### 🏆 Award
 2015-2016 
 - Top 10 Best Prefect Award 
 2018-2021 
@@ -67,19 +68,4 @@ Year 1
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-
-###
-
-###
-
-
-
-
-
-
-
-
-
-
 
