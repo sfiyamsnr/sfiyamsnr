@@ -20,7 +20,8 @@
 - SPM 
 - Foundation CGPA 4.00
 - MUET 4.0
-- IELTS 6.0  
+- IELTS 6.0
+- Current 
 #### 🏆 Award
 2015-2016 
 - Top 10 Best Prefect Award </br>
