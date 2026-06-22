@@ -202,5 +202,5 @@ Data Engineering student at Universiti Teknologi Malaysia skilled in **Python** 
 ---
 
 <div align="center">
-  <i>✦ Made with passion by Safiya Nursyahadah · 2026 ✦</i>
+  <i>✦ Made with passion by Safiya Nursyahadah ✦</i>
 </div>
