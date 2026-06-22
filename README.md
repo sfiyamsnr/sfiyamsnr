@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=sfiyamsnr&color=ff69b4&style=flat-square)
 <div align="center">
 
 # Hi there, I'm Safiya Nursyahadah ✦
