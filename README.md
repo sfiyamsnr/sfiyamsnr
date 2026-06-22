@@ -6,7 +6,7 @@
 🌍 Based in Rawang, Selangor.</br></br>
 📩 Contact me at safiyanursyahadah@graduate.utm.my</br></br>
 ⌨️ Visit [my e-portfolio](https://sfiyamsnr.github.io/)</br></br>
-🪪 Take a look at [my resume](https://drive.google.com/file/d/1F_TyT71HT-vSHU7I9au_TZxBORHzeecq/view?usp=drive_link)</br></br>
+🪪 Take a look at [my resume]([https://drive.google.com/file/d/1F_TyT71HT-vSHU7I9au_TZxBORHzeecq/view?usp=drive_link](https://drive.google.com/file/d/1VnaqigNMaJO38YCmUg2BtURVeGF18ccR/view?usp=drive_link))</br></br>
 
 #### 🎓Education
 - MRSM SULTAN AZLAN SHAH, KUALA KANGSAR, PERAK.
