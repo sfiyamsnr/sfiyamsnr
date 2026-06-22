@@ -8,6 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sfiyamsnr)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sfiyamsnr.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safiyamasnoor@gmail.com)
+![Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsfiyamsnr&count_bg=%23FF69B4&title_bg=%23555555&icon=github&icon_color=%23FFFFFF&title=views&edge_flat=true)
 
 </div>
 
